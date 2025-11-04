@@ -1,5 +1,5 @@
 # systemverilog-fundamentals
-Practical SystemVerilog code repository showcasing foundational learning and early experimentation.
+Practical SystemVerilog and Verilog code repository showcasing foundational learning and early experimentation.
 
 **Author:** Russel Sofia
 
