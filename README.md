@@ -5,12 +5,12 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 ## Overview
 
-1. Digital Design with SystemVerilog HDL  
-2. Verilog Lint Essentials for RTL Design Engineer  
-3. Verification Series Part 1 to 7  
-4. Communication Series Part 1 and 2  
-5. FPGA Timings Part 1: Static Timing Analysis (STA) and Part 2: Clock Domain Crossing (CDC)  
-6. Building SDRAM Controller in Verilog from Scratch  
+1. Digital Design with SystemVerilog HDL
+2. Verilog Lint Essentials for RTL Design Engineer
+3. Verification Series Part 1 to 8
+4. Communication Series Part 1 and 2
+5. FPGA Timings Part 1: Static Timing Analysis (STA) and Part 2: Clock Domain Crossing (CDC)
+6. Building SDRAM Controller in Verilog from Scratch
 7. PyUVM Series Part 1 to 4
 
 ---
@@ -25,7 +25,7 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 ## 3. Verification Series
 
-- Verification Series Part 1: SystemVerilog Essentials  
+- Verification Series Part 1: SystemVerilog Essentials
 - Verification Series Part 2: Hands-On SystemVerilog Projects  
 - Verification Series Part 3: UVM Essentials  
 - Verification Series Part 4: UVM Projects  
