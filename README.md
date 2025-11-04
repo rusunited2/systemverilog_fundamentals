@@ -3,7 +3,7 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 **Author:** Russel Sofia
 
-## Sections
+## Overview
 
 1. Digital Design with SystemVerilog HDL  
 2. Verilog Lint Essentials for RTL Design Engineer  
