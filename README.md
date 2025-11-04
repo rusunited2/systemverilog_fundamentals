@@ -1,5 +1,6 @@
 # systemverilog-fundamentals
 Practical SystemVerilog code repository showcasing foundational learning and early experimentation.
+
 **Author:** Russel Sofia
 
 ## Sections
@@ -16,7 +17,7 @@ Practical SystemVerilog code repository showcasing foundational learning and ear
 
 ## 1. Digital Design with SystemVerilog HDL
 
-**- MUX, Priority Encoder, ALU, Registers and Counters, FSMs, Memory Design, Serial Communication Projects**
+- Implementation of basic Digital Building Blocks: MUX, Priority Encoder, ALU, Registers and Counters, FSMs, Memory Design, Serial Communication Projects**
 
 ## 2. Verilog Lint Essentials for RTL Design Engineer
 
@@ -30,9 +31,13 @@ Practical SystemVerilog code repository showcasing foundational learning and ear
 - Verification Series Part 6: SystemVerilog Essentials  
 - Verification Series Part 7: SystemVerilog Essentials  
 
-## 4. Communication Series
+## 4. Communication Series in Verilog
 
-## 5. FPGA Timings
+- Part 1: UART, SPI and I2C
+- Part 2: AMBA APB
+- Part 3: AMBA AXI
+
+## 5. FPGA Timings with Vivado 2024
 
 - Part 1: Static Timing Analysis (STA)  
 - Part 2: Clock Domain Crossing (CDC)
