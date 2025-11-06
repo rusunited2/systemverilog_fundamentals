@@ -57,6 +57,8 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 ---
 
 ### Extra Resources
-
+1. RTL Design
+- [RTL Design Tutorial](https://hdlbits.01xz.net/wiki/Problem_sets)
+- [RTL Design Interview Practice](https://quicksilicon.in/)
+2. Verification
 - [ChipVerify UVM Tutorials](https://www.chipverify.com/tutorials/uvm)
-- [RTL Design Practice](https://quicksilicon.in/)
