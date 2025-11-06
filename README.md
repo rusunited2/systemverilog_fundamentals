@@ -59,3 +59,4 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 ### Extra Resources
 
 - [ChipVerify UVM Tutorials](https://www.chipverify.com/tutorials/uvm)
+- [RTL Design Practice](https://quicksilicon.in/)
