@@ -17,7 +17,21 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 ## 1. Digital Design with SystemVerilog HDL
 
-- Implementation of basic Digital Building Blocks: MUX, Priority Encoder, ALU, Registers and Counters, FSMs, Memory Design, Serial Communication Projects
+- Implementation of basic Digital Circuits:
+  1. Arithmetic Digital Blocks: Adders, Subtractors, Multipliers, Dividers, and Square Root
+  2. Digital Building Blocks: Priority Encoder, ALU, Registers, Counters
+  3. Finite State Machines (FSMs): Moore and Mealy bit sequence detector
+  4. Algorithm: Fibonnaci Number Generator
+- Implementation of CDCs:
+  5. CDC Synchronizers: 2-stage FF, Toggle, Pulse, Recirculating Mux, Handshake Synchronizer, Asynchronous FIFO
+- Implementation of Bus and Interface protocols:
+  6. Bus Matrix AXI: full and AXI-lite bus matrix controller
+  7. Peripheral Protocols: SPI, I2C and UART
+- Implementation of Advanced Digital Circuits:
+  8. Pipeline components: Basic pipeline stage, hazard detection, stall mechanism
+  9. Out-of-order execution concepts (simplified reorder buffer or scheduler)
+  10. Cache controller and simple ECC memory module
+  11. Clock, Reset, and Power domain handling: Clock gating, power gating, reset synchronization
 
 ## 2. Verilog Lint Essentials for RTL Design Engineer
 
@@ -62,3 +76,4 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 - [RTL Design Interview Practice](https://quicksilicon.in/)
 2. Verification
 - [ChipVerify UVM Tutorials](https://www.chipverify.com/tutorials/uvm)
+- [Cracking Digital VLSI Verification Interview: Interview Success](https://www.amazon.com/Cracking-Digital-VLSI-Verification-Interview/dp/1519089864)
