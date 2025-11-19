@@ -23,15 +23,15 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
   3. Finite State Machines (FSMs): Moore and Mealy bit sequence detector
   4. Algorithm: Fibonnaci Number Generator
 - Implementation of CDCs:
-  5. CDC Synchronizers: 2-stage FF, Toggle, Pulse, Recirculating Mux, Handshake Synchronizer, Asynchronous FIFO
+  1. CDC Synchronizers: 2-stage FF, Toggle, Pulse, Recirculating Mux, Handshake Synchronizer, Asynchronous FIFO
 - Implementation of Bus and Interface protocols:
-  6. Bus Matrix AXI: full and AXI-lite bus matrix controller
-  7. Peripheral Protocols: SPI, I2C and UART
+  1. Bus Matrix AXI: full and AXI-lite bus matrix controller
+  2. Peripheral Protocols: SPI, I2C and UART
 - Implementation of Advanced Digital Circuits:
-  8. Pipeline components: Basic pipeline stage, hazard detection, stall mechanism
-  9. Out-of-order execution concepts (simplified reorder buffer or scheduler)
-  10. Cache controller and simple ECC memory module
-  11. Clock, Reset, and Power domain handling: Clock gating, power gating, reset synchronization
+  1. Pipeline components: Basic pipeline stage, hazard detection, stall mechanism
+  2. Out-of-order execution concepts (simplified reorder buffer or scheduler)
+  3. Cache controller and simple ECC memory module
+  4. Clock, Reset, and Power domain handling: Clock gating, power gating, reset synchronization
 
 ## 2. Verilog Lint Essentials for RTL Design Engineer
 
